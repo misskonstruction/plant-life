@@ -12,35 +12,35 @@ class Directory extends React.Component {
       sections: [
         {
           title: 'succulents',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          imageUrl: 'https://1.bp.blogspot.com/-ppoF_BiGzE8/YCVyzge2xCI/AAAAAAAAJQA/Js-nrsHl3C8ot6VT6YX8ytQTUymazwd3wCLcBGAsYHQ/s320/succulents.jpg',
           id: 1,
-          linkUrl: 'hats'
+          linkUrl: 'succulents'
         },
         {
           title: 'herbs',
-          imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+          imageUrl: 'https://1.bp.blogspot.com/-Q45yu7kjIlc/YCV0P41C8xI/AAAAAAAAJQY/BGlf2uMi7L0K7neAqQZ_MLh928ClZkhSgCLcBGAsYHQ/s320/herbs.jpg',
           id: 2,
-          linkUrl: ''
+          linkUrl: 'herbs'
         },
         {
           title: 'vegetables',
-          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+          imageUrl: 'https://1.bp.blogspot.com/-fGLTd8dxIcc/YCVyzgZ7bmI/AAAAAAAAJP8/b7agcMDyJpwXkNpLHYd64HVG0iWu8QW2QCLcBGAsYHQ/s320/veggies.jpg',
           id: 3,
-          linkUrl: ''
+          linkUrl: 'veggies'
         },
         {
           title: 'indoor',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://1.bp.blogspot.com/-AE7TBTdVpeY/YCVyzPXaEJI/AAAAAAAAJPw/nxv047GOv74ZZlbTrtIGs1izQSm7ubd2QCLcBGAsYHQ/s320/indoor.jpg',
           size: 'large',
           id: 4,
-          linkUrl: ''
+          linkUrl: 'indoor'
         },
         {
           title: 'outdoor',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://1.bp.blogspot.com/-s17JbbAmXPc/YCVyzI7D6rI/AAAAAAAAJP4/uKvxf77XKBoiacIBqnmO8MLQk75QSORHACLcBGAsYHQ/s2048/outdoor.jpg',
           size: 'large',
           id: 5,
-          linkUrl: ''
+          linkUrl: 'outdoor'
         }
       ]
     };
@@ -58,3 +58,4 @@ class Directory extends React.Component {
 }
 
 export default Directory;
+
