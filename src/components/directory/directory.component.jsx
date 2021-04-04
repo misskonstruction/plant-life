@@ -11,33 +11,33 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: 'succulents',
-          imageUrl: 'https://1.bp.blogspot.com/-ppoF_BiGzE8/YCVyzge2xCI/AAAAAAAAJQA/Js-nrsHl3C8ot6VT6YX8ytQTUymazwd3wCLcBGAsYHQ/s320/succulents.jpg',
+          title: 'wooden plugs',
+          imageUrl: 'https://i.etsystatic.com/10302514/r/il/190e26/2546950846/il_1140xN.2546950846_dbne.jpg',
           id: 1,
-          linkUrl: 'succulents'
+          linkUrl: 'wooden-plugs'
         },
         {
-          title: 'herbs',
-          imageUrl: 'https://1.bp.blogspot.com/-Q45yu7kjIlc/YCV0P41C8xI/AAAAAAAAJQY/BGlf2uMi7L0K7neAqQZ_MLh928ClZkhSgCLcBGAsYHQ/s320/herbs.jpg',
+          title: 'stainless steel plugs',
+          imageUrl: 'https://cdn.shopify.com/s/files/1/0337/8189/products/SS-008-SS_087e3002-8df0-4478-ae1b-a2c19a912d58_360x.jpg?v=1612558616',
           id: 2,
           linkUrl: ''
         },
         {
-          title: 'vegetables',
-          imageUrl: 'https://1.bp.blogspot.com/-fGLTd8dxIcc/YCVyzgZ7bmI/AAAAAAAAJP8/b7agcMDyJpwXkNpLHYd64HVG0iWu8QW2QCLcBGAsYHQ/s320/veggies.jpg',
+          title: 'acrylic plugs',
+          imageUrl: 'https://i.pinimg.com/originals/be/67/d0/be67d04c3aa88549cd32bc3d97e07b0b.jpg',
           id: 3,
           linkUrl: ''
         },
         {
-          title: 'indoor',
-          imageUrl: 'https://1.bp.blogspot.com/-AE7TBTdVpeY/YCVyzPXaEJI/AAAAAAAAJPw/nxv047GOv74ZZlbTrtIGs1izQSm7ubd2QCLcBGAsYHQ/s320/indoor.jpg',
+          title: 'uniquely styled',
+          imageUrl: 'https://i.pinimg.com/originals/0e/e8/0f/0ee80f65128598bdbbd325eadd59210d.jpg',
           size: 'large',
           id: 4,
           linkUrl: ''
         },
         {
-          title: 'outdoor',
-          imageUrl: 'https://lh3.googleusercontent.com/-L7LpavU1nRw/YCqt1AKSjZI/AAAAAAAAJTU/9COa97ufu1ErSYz3JE8nHJw8Lk34ncD7ACLcBGAsYHQ/outdoors.jpg',
+          title: 'stretching kits',
+          imageUrl: 'https://cdn.shopify.com/s/files/1/0068/6312/products/starter_2000x.jpg?v=1549599896',
           size: 'large',
           id: 5,
           linkUrl: ''
